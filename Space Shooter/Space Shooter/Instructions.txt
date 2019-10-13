@@ -1,0 +1,19 @@
+********************************************************************
+
+				INSTRUCTIONS
+				~~~~~~~~~~~~
+					
+
+		YOU ARE THE SPACESHIP WHICH HAS A FIXED
+
+
+		POSITION: BOTTOM OF THE SCREEN.
+
+		
+		SPACE-MONSTERS / DEBRIS WILL FALL FROM 
+
+
+		THE SKY AND YOUR GOAL IS TO KILL / DESTROY
+
+
+		THEM BEFORE THEY KILL YOU.

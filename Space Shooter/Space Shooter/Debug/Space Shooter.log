@@ -1,0 +1,28 @@
+﻿  Debris.cpp
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Fire.h(20,32): warning C4244:  'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Debris.cpp(99,3): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Debris.cpp(102,4): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Debris.cpp(104,4): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Debris.cpp(107,4): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Debris.cpp(109,4): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Debris.cpp(111,4): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  Fire.cpp
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Debris.cpp(127,20): warning C4018:  '<': signed/unsigned mismatch
+  Game.cpp
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Fire.h(20,32): warning C4244:  'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Fire.h(20,32): warning C4244:  'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Game.cpp(29,23): warning C4305:  '+=': truncation from 'double' to 'float'
+  Global.cpp
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Game.cpp(37,21): warning C4018:  '<': signed/unsigned mismatch
+  Main.cpp
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Fire.h(20,32): warning C4244:  'return': conversion from 'const float' to 'int', possible loss of data
+  Player.cpp
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Fire.h(20,32): warning C4244:  'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Fire.h(20,32): warning C4244:  'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Player.cpp(30,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Player.cpp(35,1): warning C4010:  single-line comment contains line-continuation character
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Player.cpp(36,1): warning C4010:  single-line comment contains line-continuation character
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Player.cpp(37,1): warning C4010:  single-line comment contains line-continuation character
+  Generating Code...
+C:\Users\Rajiv\source\repos\Space Shooter\Space Shooter\Player.cpp(47,134): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  Space Shooter.vcxproj -> C:\Users\Rajiv\source\repos\Space Shooter\Debug\Space Shooter.exe
